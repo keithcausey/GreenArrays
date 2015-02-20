@@ -1,0 +1,3 @@
+*.cf linguist-language=Forth
+*.e4 linguist-language=Forth
+*.blk linguist-language=Forth
